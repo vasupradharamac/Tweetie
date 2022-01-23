@@ -149,7 +149,7 @@ class PostCreateView(LoginRequiredMixin, CreateView):
 
     def get_context_data(self, **kwargs):
         data = super().get_context_data(**kwargs)
-        data['tag_line'] = 'Add a new post'
+        data['tag_line'] = 'Add a new tweet'
         return data
 
 
