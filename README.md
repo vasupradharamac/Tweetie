@@ -61,7 +61,7 @@ For an existing follower's account, an option to unfollow them has been provided
 
 The home page displays the user's feed.
 
-The feed comprises of the tweets of the user and also the tweets of their followers/people they follow.
+The feed contains the tweets of the user and also the tweets of their followers and the people that they follow.
 
 The user can choose to like or unlike or comment on another user's tweet.
 
