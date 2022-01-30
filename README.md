@@ -59,7 +59,7 @@ For an existing follower's account, an option to unfollow them has been provided
 
 <h2> Feed </h2>
 
-The home page displays the feed of the user.
+The home page displays the user's feed.
 
 The feed comprises of the tweets of the user and also the tweets of their followers/people they follow.
 
