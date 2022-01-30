@@ -3,7 +3,7 @@ A social networking app designed around Twitter using Django
 
 <h1>Sample images of the app:</h1>
 
-<h2>Register</h2>
+<h2>Register a new account</h2>
 
 ![Register a new account](https://github.com/vasupradharamachanrdan/Tweetie/blob/main/media/TweetieRegister.png)
 
