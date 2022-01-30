@@ -1,6 +1,8 @@
 # Tweetie
 A social networking app designed around Twitter using Django
 
+<h3>Link to live website:</h3> [https://vasu-tweetie.herokuapp.com/](https://vasu-tweetie.herokuapp.com/login/?next=/)
+
 <h1>Sample images of the app:</h1>
 
 <h2>Register a new account</h2>
