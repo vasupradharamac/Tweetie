@@ -51,9 +51,9 @@ The user can search for an existing user's account by making use of the universa
 
 Once the user account has been found, the user can choose to follow them. 
 
-The number of followers and the number of people that the user follows is displayed on the left (on the home page).
+The number of followers and the number of people that the user follows is displayed on the left (of the home page).
 
-The suggestions to follow new users or view existing users' account is displayed on the right (on the home page).
+The suggestions to follow new users or view existing users' account is displayed on the right (of the home page).
 
 For an existing follower's account, an option to unfollow them has been provided.
 
